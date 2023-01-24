@@ -12,6 +12,7 @@ Master : Mr.Horr
 OverView : Generally our project is based on python code.
 
 1)Graohic: PyQt6
+
 2)Database: SQL
 
 
