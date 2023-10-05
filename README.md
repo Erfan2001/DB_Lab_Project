@@ -1,5 +1,5 @@
 # FIFA BAZ
-***
+
 Database Laboratory Project
 
 ## Project description:
