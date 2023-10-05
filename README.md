@@ -18,8 +18,9 @@ Master: Mr.Horr
 
 Overview: Generally our project is based on Python code.
 
-1) Graphic: PyQt6
+1) Programming Language: Python
 2) Database: SQL
+3) Graphic: PyQt6
 
 
 Winter 2023
